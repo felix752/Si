@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "0d1f95c7459f3248",
+    "type": "split",
+    "children": [
+      {
+        "id": "39faac6beb735cfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "897597d23487e838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pantheon/Domhan, Dio dell'Agricoltura.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03ad5f2b889b22a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pantheon/Glúin, Dea della Vita.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9f76fdfc8fc2da9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pantheon/Tae An, Dio del Tè al Limone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abee586af40a51d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "782567640670db2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe227a9c9371a137",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e388aa7f55af509",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "052f536706fa2ae5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8426e1d96ff911a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "42d47618bc0e6aa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70663b3bf48d358e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pantheon/Tae An, Dio del Tè al Limone.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "801d98dadf9e97d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pantheon/Tae An, Dio del Tè al Limone.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "611b45f15c9f19cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a7ede51efbce8f63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pantheon/Tae An, Dio del Tè al Limone.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "e9f76fdfc8fc2da9",
+  "lastOpenFiles": [
+    "Pantheon/Solas, Dio della Luce.md",
+    "Pantheon/Sakàr, Dio della Caccia.md",
+    "Pantheon/Saiocht, Dio delle Bestie.md",
+    "Pantheon/Ronan, Dio del Libero Arbitrio.md",
+    "Pantheon/Reultan, Dio delle Stelle (e del Sacrificio).md",
+    "Pantheon/Odrans, Dio dell' Umanità.md",
+    "Pantheon/Nádúrtha, Dea della Natura.md",
+    "Pantheon/Mephet.md",
+    "Pantheon/Longan, Dio dei Draghi.md",
+    "Pantheon/Glúin, Dea della Vita.md",
+    "Pantheon/Freelice Kostadinova.md",
+    "Pantheon/Eastinaer, Dea degli Elementi.md",
+    "Pantheon/Domhan, Dio dell'Agricoltura.md",
+    "Pantheon/Cathanna, Dea della Guerra e della Distruzione.md",
+    "Pantheon/Divinità.md",
+    "Razze/Orchi.md",
+    "SI/Welcome.md",
+    "2024-06-17.md",
+    "Senza nome.canvas",
+    "Pantheon/Tae An, Dio del Tè al Limone.md",
+    "Pantheon/Neart, Dio del Potere.md",
+    "Timeline.md",
+    "Senza nome",
+    "Welcome.md"
+  ]
+}

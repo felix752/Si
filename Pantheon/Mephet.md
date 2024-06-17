@@ -1,4 +1,3 @@
-
 ## Mepheth, Dio della Morte
 
 ### PRIMO DIO E PADRE DI TUTTI GLI DEI MAGGIORI

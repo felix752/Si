@@ -3,106 +3,39 @@
 
 ### **Figli di Mepheth**
 
-# **Ronan, Dio del Libero Arbitrio**
+[[Ronan, Dio del Libero Arbitrio]]
 
-### **SIGNORE DEL PIANO DEMONI**
+[[Eastinaer, Dea degli Elementi]]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt nisl turpis, vitae placerat sapien vulputate ac. Aliquam vestibulum posuere nibh, id laoreet urna ornare in. Etiam sed volutpat tellus. Aenean ac imperdiet magna. Nunc fringilla dictum mi in tempus. Quisque hendrerit lacinia turpis, ut gravida mi pretium vulputate. Proin ac aliquet quam, vel cursus turpis. Duis eu laoreet magna, a gravida neque.
+[[Glúin, Dea della Vita]]
 
-# **Eastinaer, Dea degli Elementi**
-
-### **SIGNORA DEL PIANO FATATO**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt nisl turpis, vitae placerat sapien vulputate ac. Aliquam vestibulum posuere nibh, id laoreet urna ornare in. Etiam sed volutpat tellus. Aenean ac imperdiet magna. Nunc fringilla dictum mi in tempus. Quisque hendrerit lacinia turpis, ut gravida mi pretium vulputate. Proin ac aliquet quam, vel cursus turpis. Duis eu laoreet magna, a gravida neque.
-
-# **Glúin, Dea della Vita**
-
-### **SIGNORA DEL PIANO MATERIALE**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt nisl turpis, vitae placerat sapien vulputate ac. Aliquam vestibulum posuere nibh, id laoreet urna ornare in. Etiam sed volutpat tellus. Aenean ac imperdiet magna. Nunc fringilla dictum mi in tempus. Quisque hendrerit lacinia turpis, ut gravida mi pretium vulputate. Proin ac aliquet quam, vel cursus turpis. Duis eu laoreet magna, a gravida neque.
-
-# **Neart, Dio del Potere**
-
-### **SIGNORE DEL PIANO ANGELI**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt nisl turpis, vitae placerat sapien vulputate ac. Aliquam vestibulum posuere nibh, id laoreet urna ornare in. Etiam sed volutpat tellus. Aenean ac imperdiet magna. Nunc fringilla dictum mi in tempus. Quisque hendrerit lacinia turpis, ut gravida mi pretium vulputate. Proin ac aliquet quam, vel cursus turpis. Duis eu laoreet magna, a gravida neque.
-
+[[Neart, Dio del Potere]]
 # **DIVINITÀ MINORI**
 
 ### **Figli delle Divinità Maggiori**
 
-## **Odrans, Dio dell' Umanità**
+[[Odrans, Dio dell' Umanità]]
 
-### **FIGLIO DI RONAN**
+[[Reultan, Dio delle Stelle (e del Sacrificio)]]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt nisl turpis, vitae placerat sapien vulputate ac. Aliquam vestibulum posuere nibh, id laoreet urna ornare in. Etiam sed volutpat tellus. Aenean ac imperdiet magna. Nunc fringilla dictum mi in tempus. Quisque hendrerit lacinia turpis, ut gravida mi pretium vulputate. Proin ac aliquet quam, vel cursus turpis. Duis eu laoreet magna, a gravida neque.
+[[Solas, Dio della Luce]]
 
-# **Reultan, Dio delle Stelle (e del Sacrificio)**
+[[Domhan, Dio dell'Agricoltura]]
 
-### **FIGLIO DI RONAN**
+[[Tae An, Dio del Tè al Limone]]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt nisl turpis, vitae placerat sapien vulputate ac. Aliquam vestibulum posuere nibh, id laoreet urna ornare in. Etiam sed volutpat tellus. Aenean ac imperdiet magna. Nunc fringilla dictum mi in tempus. Quisque hendrerit lacinia turpis, ut gravida mi pretium vulputate. Proin ac aliquet quam, vel cursus turpis. Duis eu laoreet magna, a gravida neque.
+[[Nádúrtha, Dea della Natura]]
 
-# **Solas, Dio della Luce**
+[[Sakàr, Dio della Caccia]]
 
-### **FIGLIO DI EASTINAER**
+[[Cathanna, Dea della Guerra e della Distruzione]]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt nisl turpis, vitae placerat sapien vulputate ac. Aliquam vestibulum posuere nibh, id laoreet urna ornare in. Etiam sed volutpat tellus. Aenean ac imperdiet magna. Nunc fringilla dictum mi in tempus. Quisque hendrerit lacinia turpis, ut gravida mi pretium vulputate. Proin ac aliquet quam, vel cursus turpis. Duis eu laoreet magna, a gravida neque.
+[[Longan, Dio dei Draghi]]
 
-# **Domhan, Dio dell'Agricoltura**
-
-### **FIGLIA DI EASTINAER**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt nisl turpis, vitae placerat sapien vulputate ac. Aliquam vestibulum posuere nibh, id laoreet urna ornare in. Etiam sed volutpat tellus. Aenean ac imperdiet magna. Nunc fringilla dictum mi in tempus. Quisque hendrerit lacinia turpis, ut gravida mi pretium vulputate. Proin ac aliquet quam, vel cursus turpis. Duis eu laoreet magna, a gravida neque.
-
-# **Neamh, Dea del Cielo**
-
-### **FIGLIO DI EASTINAER**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt nisl turpis, vitae placerat sapien vulputate ac. Aliquam vestibulum posuere nibh, id laoreet urna ornare in. Etiam sed volutpat tellus. Aenean ac imperdiet magna. Nunc fringilla dictum mi in tempus. Quisque hendrerit lacinia turpis, ut gravida mi pretium vulputate. Proin ac aliquet quam, vel cursus turpis. Duis eu laoreet magna, a gravida neque.
-
-# **Tae An, Dio del Tè al Limone**
-
-### **FIGLIO DI EASTINAER**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt nisl turpis, vitae placerat sapien vulputate ac. Aliquam vestibulum posuere nibh, id laoreet urna ornare in. Etiam sed volutpat tellus. Aenean ac imperdiet magna. Nunc fringilla dictum mi in tempus. Quisque hendrerit lacinia turpis, ut gravida mi pretium vulputate. Proin ac aliquet quam, vel cursus turpis. Duis eu laoreet magna, a gravida neque.
-
-# **Nádúrtha, Dea della Natura**
-
-### **FIGLIA DI GLÚIN**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt nisl turpis, vitae placerat sapien vulputate ac. Aliquam vestibulum posuere nibh, id laoreet urna ornare in. Etiam sed volutpat tellus. Aenean ac imperdiet magna. Nunc fringilla dictum mi in tempus. Quisque hendrerit lacinia turpis, ut gravida mi pretium vulputate. Proin ac aliquet quam, vel cursus turpis. Duis eu laoreet magna, a gravida neque.
-
-# **Sakàr, Dio della Caccia**
-
-### **FIGLIO DI GLÚIN**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt nisl turpis, vitae placerat sapien vulputate ac. Aliquam vestibulum posuere nibh, id laoreet urna ornare in. Etiam sed volutpat tellus. Aenean ac imperdiet magna. Nunc fringilla dictum mi in tempus. Quisque hendrerit lacinia turpis, ut gravida mi pretium vulputate. Proin ac aliquet quam, vel cursus turpis. Duis eu laoreet magna, a gravida neque.
-
-# **Cathanna, Dea della Guerra e della Distruzione**
-
-### **FIGLIA DI NEART**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt nisl turpis, vitae placerat sapien vulputate ac. Aliquam vestibulum posuere nibh, id laoreet urna ornare in. Etiam sed volutpat tellus. Aenean ac imperdiet magna. Nunc fringilla dictum mi in tempus. Quisque hendrerit lacinia turpis, ut gravida mi pretium vulputate. Proin ac aliquet quam, vel cursus turpis. Duis eu laoreet magna, a gravida neque.
-
-# **Longan, Dio dei Draghi**
-
-### **FIGLIO DI NEART**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt nisl turpis, vitae placerat sapien vulputate ac. Aliquam vestibulum posuere nibh, id laoreet urna ornare in. Etiam sed volutpat tellus. Aenean ac imperdiet magna. Nunc fringilla dictum mi in tempus. Quisque hendrerit lacinia turpis, ut gravida mi pretium vulputate. Proin ac aliquet quam, vel cursus turpis. Duis eu laoreet magna, a gravida neque.
-
-# **Saiocht, Dio delle Bestie**
-
-### **FIGLIO DI NEART**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt nisl turpis, vitae placerat sapien vulputate ac. Aliquam vestibulum posuere nibh, id laoreet urna ornare in. Etiam sed volutpat tellus. Aenean ac imperdiet magna. Nunc fringilla dictum mi in tempus. Quisque hendrerit lacinia turpis, ut gravida mi pretium vulputate. Proin ac aliquet quam, vel cursus turpis. Duis eu laoreet magna, a gravida neque.
+[[Saiocht, Dio delle Bestie]]
 
 # **SEMIDEI CONOSCIUTI**
 
 ### **Figli delle Divinità concepiti con mortali**
 
-# **Freelice Kostadinova**
-
-### **FIGLIO DI NEART**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt nisl turpis, vitae placerat sapien vulputate ac. Aliquam vestibulum posuere nibh, id laoreet urna ornare in. Etiam sed volutpat tellus. Aenean ac imperdiet magna. Nunc fringilla dictum mi in tempus. Quisque hendrerit lacinia turpis, ut gravida mi pretium vulputate. Proin ac aliquet quam, vel cursus turpis. Duis eu laoreet magna, a gravida neque.
+[[Freelice Kostadinova]]
