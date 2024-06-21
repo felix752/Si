@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pantheon/Tae An, Dio del Tè al Limone.md",
+                "file": "Razze/Orchi.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pantheon/Tae An, Dio del Tè al Limone.md",
+                "file": "Razze/Orchi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pantheon/Tae An, Dio del Tè al Limone.md",
+                "file": "Razze/Orchi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pantheon/Tae An, Dio del Tè al Limone.md"
+                "file": "Razze/Orchi.md"
               }
             }
           }
@@ -173,6 +173,9 @@
   },
   "active": "e9f76fdfc8fc2da9",
   "lastOpenFiles": [
+    "Razze/Elfi.md",
+    "Razze/Orchi.md",
+    "Pantheon/Tae An, Dio del Tè al Limone.md",
     "Pantheon/Solas, Dio della Luce.md",
     "Pantheon/Sakàr, Dio della Caccia.md",
     "Pantheon/Saiocht, Dio delle Bestie.md",
@@ -188,11 +191,9 @@
     "Pantheon/Domhan, Dio dell'Agricoltura.md",
     "Pantheon/Cathanna, Dea della Guerra e della Distruzione.md",
     "Pantheon/Divinità.md",
-    "Razze/Orchi.md",
     "SI/Welcome.md",
     "2024-06-17.md",
     "Senza nome.canvas",
-    "Pantheon/Tae An, Dio del Tè al Limone.md",
     "Pantheon/Neart, Dio del Potere.md",
     "Timeline.md",
     "Senza nome",
